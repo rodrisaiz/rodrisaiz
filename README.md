@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **REAC and JavaScript**
 
-- 💬 Ask me about **PHP/Laravel and dogs**
+- 💬 Ask me about **PHP/Laravel and dogs** in special labradors 🐶!
 
 - 📫 How to reach me **rodrisaiz@icloud.com**
 
