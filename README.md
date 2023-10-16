@@ -8,7 +8,7 @@
 
 
   
-- 🔭 I’m currently working on [2S - Proyect](https://github.com/rodrisaiz/2S.git)
+- 🔭 I’m currently working on [2S - Project](https://github.com/rodrisaiz/2S.git)
 
 - 🌱 I’m currently learning **REAC and JavaScript**
 
