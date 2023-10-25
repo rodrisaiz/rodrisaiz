@@ -4,7 +4,7 @@
 <h3 align="center">I am an Argentinian Full Stack Developer living in Barcelona, let´s do something amaizing!</h3>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrisaiz&label=Profile%20views&color=0e75b6&style=flat" alt="rodrisaiz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrisaiz&label=Profile%20views&color=gray&style=plastic" alt="rodrisaiz" /> </p>
 
 
   
