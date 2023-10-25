@@ -78,10 +78,17 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrisaiz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrisaiz&theme=nord&hide_border=false" />
+</div> 
+<br/>  
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrisaiz&theme=nord&show_icons=true&hide_border=false&count_private=true"/>
+</div>
 <br/>  
 
 <div align="center"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrisaiz&" alt="rodrisaiz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrisaiz&theme=nord&show_icons=true&hide_border=false&layout=compact" />
 </div> 
+
