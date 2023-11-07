@@ -16,7 +16,7 @@
 
 - 📫 How to reach me <a href="https://linktr.ee/rodrisaiz" target="_blank">click here</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rodrisaiz](https://www.linkedin.com/in/rodrisaiz)
+- 📄 Know about my experiences in my <a href="https://www.linkedin.com/in/rodrisaiz" target="_blank">LINKEDIN</a>
 
 - ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
