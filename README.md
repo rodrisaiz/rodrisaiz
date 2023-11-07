@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP/Laravel and dogs** in special labradors 🐶!
 
-- 📫 How to reach me <a href="https://linktr.ee/rodrisaiz" targuet="blank">click here</a>
+- 📫 How to reach me <a href="https://linktr.ee/rodrisaiz" target="_blank">click here</a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rodrisaiz](https://www.linkedin.com/in/rodrisaiz)
 
