@@ -1,4 +1,4 @@
-<body style="background: black color: white" >
+<div style="background: black color: white" >
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="800" height="600" >
 <h1 align="center">Hi 👋, I'm Rodri</h1>
@@ -93,4 +93,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrisaiz&theme=nord&show_icons=true&hide_border=false&layout=compact" />
 </div> 
 
-</body>
+</div>
